@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("10-08 data stuct")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29662c03227986091e08cda79d5583935c7afc8d")]
 [assembly: System.Reflection.AssemblyProductAttribute("10-08 data stuct")]
 [assembly: System.Reflection.AssemblyTitleAttribute("10-08 data stuct")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

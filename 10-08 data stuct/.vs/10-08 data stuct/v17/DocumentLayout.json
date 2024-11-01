@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rawsh\\Downloads\\10-08 data stuct\\10-08 data stuct\\",
+  "WorkspaceRootPath": "C:\\Users\\rawsh\\OneDrive\\Documents\\GitHub\\Githubtest\\10-08 data stuct\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9DF1740A-FB72-44A0-B5F1-34B895AE7578}|10-08 data stuct\\10-08 data stuct.csproj|c:\\users\\rawsh\\downloads\\10-08 data stuct\\10-08 data stuct\\10-08 data stuct\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9DF1740A-FB72-44A0-B5F1-34B895AE7578}|10-08 data stuct\\10-08 data stuct.csproj|c:\\users\\rawsh\\onedrive\\documents\\github\\githubtest\\10-08 data stuct\\10-08 data stuct\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DF1740A-FB72-44A0-B5F1-34B895AE7578}|10-08 data stuct\\10-08 data stuct.csproj|solutionrelative:10-08 data stuct\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DF1740A-FB72-44A0-B5F1-34B895AE7578}|10-08 data stuct\\10-08 data stuct.csproj|c:\\users\\rawsh\\downloads\\10-08 data stuct\\10-08 data stuct\\10-08 data stuct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9DF1740A-FB72-44A0-B5F1-34B895AE7578}|10-08 data stuct\\10-08 data stuct.csproj|c:\\users\\rawsh\\onedrive\\documents\\github\\githubtest\\10-08 data stuct\\10-08 data stuct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DF1740A-FB72-44A0-B5F1-34B895AE7578}|10-08 data stuct\\10-08 data stuct.csproj|solutionrelative:10-08 data stuct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\rawsh\\Downloads\\10-08 data stuct\\10-08 data stuct\\10-08 data stuct\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\rawsh\\OneDrive\\Documents\\GitHub\\Githubtest\\10-08 data stuct\\10-08 data stuct\\Class1.cs",
               "RelativeDocumentMoniker": "10-08 data stuct\\Class1.cs",
-              "ToolTip": "C:\\Users\\rawsh\\Downloads\\10-08 data stuct\\10-08 data stuct\\10-08 data stuct\\Class1.cs",
+              "ToolTip": "C:\\Users\\rawsh\\OneDrive\\Documents\\GitHub\\Githubtest\\10-08 data stuct\\10-08 data stuct\\Class1.cs",
               "RelativeToolTip": "10-08 data stuct\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T16:23:07.085Z",
               "EditorCaption": ""
@@ -37,9 +37,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\rawsh\\Downloads\\10-08 data stuct\\10-08 data stuct\\10-08 data stuct\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\rawsh\\OneDrive\\Documents\\GitHub\\Githubtest\\10-08 data stuct\\10-08 data stuct\\Program.cs",
               "RelativeDocumentMoniker": "10-08 data stuct\\Program.cs",
-              "ToolTip": "C:\\Users\\rawsh\\Downloads\\10-08 data stuct\\10-08 data stuct\\10-08 data stuct\\Program.cs",
+              "ToolTip": "C:\\Users\\rawsh\\OneDrive\\Documents\\GitHub\\Githubtest\\10-08 data stuct\\10-08 data stuct\\Program.cs",
               "RelativeToolTip": "10-08 data stuct\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

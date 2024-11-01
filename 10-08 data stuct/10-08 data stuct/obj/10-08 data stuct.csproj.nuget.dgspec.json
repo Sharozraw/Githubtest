@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rawsh\\Downloads\\10-08 data stuct\\10-08 data stuct\\10-08 data stuct\\10-08 data stuct.csproj": {}
+    "C:\\Users\\rawsh\\OneDrive\\Documents\\GitHub\\Githubtest\\10-08 data stuct\\10-08 data stuct\\10-08 data stuct.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rawsh\\Downloads\\10-08 data stuct\\10-08 data stuct\\10-08 data stuct\\10-08 data stuct.csproj": {
+    "C:\\Users\\rawsh\\OneDrive\\Documents\\GitHub\\Githubtest\\10-08 data stuct\\10-08 data stuct\\10-08 data stuct.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rawsh\\Downloads\\10-08 data stuct\\10-08 data stuct\\10-08 data stuct\\10-08 data stuct.csproj",
+        "projectUniqueName": "C:\\Users\\rawsh\\OneDrive\\Documents\\GitHub\\Githubtest\\10-08 data stuct\\10-08 data stuct\\10-08 data stuct.csproj",
         "projectName": "10-08 data stuct",
-        "projectPath": "C:\\Users\\rawsh\\Downloads\\10-08 data stuct\\10-08 data stuct\\10-08 data stuct\\10-08 data stuct.csproj",
+        "projectPath": "C:\\Users\\rawsh\\OneDrive\\Documents\\GitHub\\Githubtest\\10-08 data stuct\\10-08 data stuct\\10-08 data stuct.csproj",
         "packagesPath": "C:\\Users\\rawsh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rawsh\\Downloads\\10-08 data stuct\\10-08 data stuct\\10-08 data stuct\\obj\\",
+        "outputPath": "C:\\Users\\rawsh\\OneDrive\\Documents\\GitHub\\Githubtest\\10-08 data stuct\\10-08 data stuct\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rawsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
