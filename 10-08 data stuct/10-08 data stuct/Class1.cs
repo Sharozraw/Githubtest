@@ -13,6 +13,7 @@ namespace _10_08_data_stuct
         private int capacity; //to define size
 
         private int count;
+
         public DynamicArray()
         {
             count = 0;
