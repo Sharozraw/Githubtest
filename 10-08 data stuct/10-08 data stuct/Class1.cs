@@ -9,7 +9,9 @@ namespace _10_08_data_stuct
     public class DynamicArray
     {
         private int[] data;
+
         private int capacity; //to define size
+
         private int count;
         public DynamicArray()
         {
@@ -24,6 +26,7 @@ namespace _10_08_data_stuct
             if(count == 0)
             {
                 Console.WriteLine("DynamicArray is empty");
+
                 return;
             }
             for (int i= 0; i < count; i++)
