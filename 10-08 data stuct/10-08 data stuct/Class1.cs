@@ -14,6 +14,7 @@ namespace _10_08_data_stuct
         public DynamicArray()
         {
             count = 0;
+
             capacity = 5;
 
             data = new int[capacity];
